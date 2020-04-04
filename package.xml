@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>husky_cur</name>
+  <version>0.0.0</version>
+  <description>The husky_cur package</description>
+  <maintainer email="muhammadfarhan99@mail.ugm.ac.id">pancanet</maintainer>
+  <license>MIT</license>
+  <buildtool_depend>catkin</buildtool_depend>
+  <export>
+  </export>
+</package>
